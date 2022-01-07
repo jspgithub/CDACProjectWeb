@@ -1,0 +1,3 @@
+this is text file created under git folder
+
+some more lines added
